@@ -1,0 +1,26 @@
+
+
+How to configure Windows to show file extensions and hidden files
+http://kb.winzip.com/kb/entry/26/
+
+
+1) http://go.appcelerator.com/installer_git_windows.exe
+ use notepd++ as git defaut editor
+
+2) https://github.com/aptana/studio3/releases
+	download Aptana_Studio_3_Setup.exe
+
+3)- Go to google.com search for JAVA SE 8 and download
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+ the 32 bit (X86) JDK and download 
+
+4) make sure the JAVA jdk is well specify the environment variable
+
+http://www.plusdigit.com/2018/02/13/solve-jvm-not-suitable-product-version-1-8-greater-required-eclipse/
+
+
+https://www.google.com/search?q=change+keyboard+setting+windows+10&rlz=1C1DIMC_enCA831CA831&oq=change+keyboard+setting&aqs=chrome.2.0j69i57j0l4.13569j1j7&sourceid=chrome&ie=UTF-8
+
+
+http://railsinstaller.org/en
+
