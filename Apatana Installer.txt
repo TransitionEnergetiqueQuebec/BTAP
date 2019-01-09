@@ -1,28 +1,25 @@
 Here is a list of step to mount your PC
-1) 
+  1) Sketchup make 2017
+  2) Openstudio 2.6.0
+  3) NotePad++
+  4) Chrome
+  5) Acrobat Reader
 
 
-Here is a list of step to install Aptana for Windows 10 - 64bit.
+Here is a list of step to install Aptana for Windows 10 - 64bit (january 2019).
 
-1) Install RailsInstaller to have Ruby and Git
-http://railsinstaller.org/en
-(version called "Ruby Installer Windows Ruby 2.3"  - Ruby 2.3.3 -  Rails 5.1)
+  1) Install RailsInstaller
+  http://railsinstaller.org/en
+  (version called "Ruby Installer Windows Ruby 2.3"  - Ruby 2.3.3 -  Rails 5.1)
 
-2) http://go.appcelerator.com/installer_git_windows.exe
- use notepd++ as git defaut editor
+  2)Install git windows
+  http://go.appcelerator.com/installer_git_windows.exe
+  note: use notepd++ as git defaut editor
 
-3) Install Aptana_Studio_3_Setup.exe 
-https://github.com/aptana/studio3/releases
-version 3.7.2.201807301111 (july 30 2018)
+  3) Install JAVA SE 8 -  32 bit (X86) JDK 
+  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+  4) Install Aptana_Studio_3_Setup.exe 
+  https://github.com/aptana/studio3/releases
+  version 3.7.2.201807301111 (july 30 2018)
 
-
-
-TO DELETE (TO ConfIRM)
-3)- Go to google.com search for JAVA SE 8 and download
-https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
- the 32 bit (X86) JDK and download 
-
-4) make sure the JAVA jdk is well specify the environment variable
-
-http://www.plusdigit.com/2018/02/13/solve-jvm-not-suitable-product-version-1-8-greater-required-eclipse/
