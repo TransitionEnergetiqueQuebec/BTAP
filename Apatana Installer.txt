@@ -22,4 +22,6 @@ Here is a list of step to install Aptana for Windows 10 - 64bit (january 2019).
   4) Install Aptana_Studio_3_Setup.exe 
   https://github.com/aptana/studio3/releases
   version 3.7.2.201807301111 (july 30 2018)
-
+  
+  5) Install debugger from the Aptana's Terminal with this command
+  gem install ruby-debug-ide
