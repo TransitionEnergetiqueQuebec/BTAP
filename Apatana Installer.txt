@@ -25,3 +25,5 @@ Here is a list of step to install Aptana for Windows 10 - 64bit (january 2019).
   
   5) Install debugger from the Aptana's Terminal with this command
   gem install ruby-debug-ide
+  
+  Instal Slack to GitHub via teqdev
