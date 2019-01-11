@@ -5,6 +5,8 @@ Here is a list of step to mount your PC
   4) Chrome
   5) Acrobat Reader
 
+Let's a discussion here !
+
 
 Here is a list of step to install Aptana for Windows 10 - 64bit (january 2019).
 
