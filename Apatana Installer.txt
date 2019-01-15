@@ -26,4 +26,8 @@ Here is a list of step to install Aptana for Windows 10 - 64bit (january 2019).
   gem install ruby-debug-ide
 
 
-	 uwvywxdwcy
+PATH to environnement variable for Aptana ruby executable	 uwvywxdwcy
+	 
+	 
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+https://help.github.com/articles/error-permission-denied-publickey/
