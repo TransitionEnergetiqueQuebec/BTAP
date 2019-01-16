@@ -1,8 +1,10 @@
-Here is a list of step to mount your PC. 
+Here is a list of steps to mount your PC.
+
 *list made in january 2019* 
+
 *Assuming the PC is Windows 10 - 64bit* 
 
-## Create an Admin user with theses apps:
+## Create an Admin user with these apps:
   1) Sketchup make 2017
   2) Openstudio 2.6.0
   3) NotePad++
@@ -25,17 +27,21 @@ Here is a list of step to mount your PC.
   5) Install debugger from the Aptana's Terminal with this command
   	`gem install ruby-debug-ide`
 
-## Create an specific Account for each developper:
-  1) create the account via Settings>Accounts>Familly & other people
+## Create an specific account for each developper:
+  1) On the first Admin session, create the account via Settings>Accounts>Familly & other people
+
+  2) Log into the created developper session (with key Win + L) 
+  
+  3) Install Aptana (à revalider)
 	
-  2) Install Aptana (à revalider)
-	
-  3) In user environement variables add the first two line (if not Aptana will not find any ruby executable:)
+  4) In user environement variables add the first two line (if not Aptana will not find any ruby executable:)
 
 		`C:\RailsInstaller\Git\cmd
 		`C:\RailsInstaller\Ruby2.3.3\bin
 		`%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
   
-  4) adapt Git user/password ssh session (To continue...)
+  5) adapt Git user/password ssh session (To continue...)
+  
 	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+	
 	https://help.github.com/articles/error-permission-denied-publickey/
