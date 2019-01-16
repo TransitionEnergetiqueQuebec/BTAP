@@ -1,13 +1,13 @@
 Here is a list of step to mount your PC. It's assume your PC is Windows 10 - 64bit 
 
-A-- Create an Admin User with this following apps:
+## A-- Create an Admin User with this following apps:
   1) Sketchup make 2017
   2) Openstudio 2.6.0
   3) NotePad++
   4) Chrome
   5) Acrobat Reader
 
-B-- On the Admin User Session, follow these steps to install Aptana 
+## B-- On the Admin User Session, follow these steps to install Aptana 
   1) Install RailsInstaller
   http://railsinstaller.org/en
   (version called "Ruby Installer Windows Ruby 2.3"  - Ruby 2.3.3 -  Rails 5.1)
@@ -26,7 +26,7 @@ B-- On the Admin User Session, follow these steps to install Aptana
   5) Install debugger from the Aptana's Terminal with this command
   gem install ruby-debug-ide
 
-C-- Create an specific Account for each developper:
+## C-- Create an specific Account for each developper:
 	1) create the account via Settings>Accounts>Familly & other people
 	
 	2) Install Aptana (à revalider)
