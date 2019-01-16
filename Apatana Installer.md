@@ -27,7 +27,7 @@ Here is a list of steps to mount your PC.
   5) Install debugger from the Aptana's Terminal with this command
   	`gem install ruby-debug-ide`
 
-## Create an specific account for each developper:
+## Create a specific account for each developper:
   1) On the first Admin session, create the account via Settings>Accounts>Familly & other people
 
   2) Log into the created developper session (with key Win + L) 
