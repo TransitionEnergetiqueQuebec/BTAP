@@ -34,14 +34,18 @@ Here is a list of steps to mount your PC.
   
   3) Install Aptana (à revalider)
 	
-  4) In user environement variables add the first two line (if not Aptana will not find any ruby executable:)
+  4) In user environement variables add the first two folling lines (if not Aptana will not find any ruby and git executable:)
 
-		`C:\RailsInstaller\Git\cmd
-		`C:\RailsInstaller\Ruby2.3.3\bin
-		`%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+		`C:\RailsInstaller\Git\cmd`
+		
+		`C:\RailsInstaller\Ruby2.3.3\bin`
+		
+		`%USERPROFILE%\AppData\Local\Microsoft\WindowsApps`
   
   5) adapt Git user/password ssh session (To continue...)
   
 	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 	
 	https://help.github.com/articles/error-permission-denied-publickey/
+	
+	https://guides.github.com/features/mastering-markdown/
