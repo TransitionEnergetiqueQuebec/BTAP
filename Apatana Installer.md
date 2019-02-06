@@ -52,5 +52,10 @@ Here is a list of steps to mount your PC.
 	
 or
   5b) use [https protocol](https://books.google.ca/books?id=yFPc1ashInkC&pg=PT254&lpg=PT254&dq=Aptana+Studio+is+pre-packaged+with+portable+Git+and+so+you+can+start+using+Git+with+Aptana+Studio+immediately&source=bl&ots=90fjmnGtlp&sig=ACfU3U08FAsz7Rd407Kn684lOc5MMq2mbA&hl=en&sa=X&ved=2ahUKEwjyhbmqrf_fAhVug-AKHcL7DpYQ6AEwAnoECAAQAQ#v=onepage&q=Aptana%20Studio%20is%20pre-packaged%20with%20portable%20Git%20and%20so%20you%20can%20start%20using%20Git%20with%20Aptana%20Studio%20immediately&f=false)
-
-TEST Commit+Push JD4
+	It's been tested and connectivity verified via Apatana by :
+	a. Import via Git>Git Repository as a new Project
+	b. enter credential
+	c. enter the URI (https://github.com/TransitionEnergetiqueQuebec/BTAP) 
+	d. the project shoul be import locally on the computer
+	e. after the change on a file or add a new file > commit (commit is  local command only)
+	f. push
