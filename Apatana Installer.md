@@ -44,14 +44,19 @@ Here is a list of steps to mount your PC.
 
 ## 4. Import the remote repository in Aptana and Commit + Push your changes
   ### Option 1: using [https protocol](https://books.google.ca/books?id=yFPc1ashInkC&pg=PT254&lpg=PT254&dq=Aptana+Studio+is+pre-packaged+with+portable+Git+and+so+you+can+start+using+Git+with+Aptana+Studio+immediately&source=bl&ots=90fjmnGtlp&sig=ACfU3U08FAsz7Rd407Kn684lOc5MMq2mbA&hl=en&sa=X&ved=2ahUKEwjyhbmqrf_fAhVug-AKHcL7DpYQ6AEwAnoECAAQAQ#v=onepage&q=Aptana%20Studio%20is%20pre-packaged%20with%20portable%20Git%20and%20so%20you%20can%20start%20using%20Git%20with%20Aptana%20Studio%20immediately&f=false)
-	It's been tested and connectivity verified via Apatana by:
+note: this solution has been tested succesfully on two differents computers:
 1. Import the [remote repository](https://github.com/TransitionEnergetiqueQuebec/BTAP) via Git > Git Repository as a new Project
 2. enter your credentials
 3. enter the URI (https://github.com/TransitionEnergetiqueQuebec/BTAP) 
-4. the project shoul be import locally on the computer
+4. the project should be import locally on the computer
 5. after the change on a file  make a **_commit_** (right click on the file > Team > commit) note: commit is  local command only
-6. To save the change on the [remote repository](https://github.com/TransitionEnergetiqueQuebec/BTAP) make a **_push_** (right  
-		
+6. To save the change on the [remote repository](https://github.com/TransitionEnergetiqueQuebec/BTAP) make a **_push_** (right clike on the file > Team > push). Aptana may prompt you an [error message](https://github.com/TransitionEnergetiqueQuebec/BTAP/blob/master/First%20Commit_problem.PNG) asking you to authentifiate. In that case, launch the terminal from Aptana and entre theses two lines
+
+	`git config --global user.email "your_github_email@example.com"`
+	
+	`git config --global user.name "your_github_Name"`
+	
+	
 
 or 
 
