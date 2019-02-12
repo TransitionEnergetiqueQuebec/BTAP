@@ -34,7 +34,7 @@ Here is a list of steps to mount your PC.
   
   3) Install Aptana (à revalider)
 	
-  4) In user environement variables add the first two folling lines (if not Aptana will not find any ruby and git executable:)
+  4) In user environement variables add the first two following lines (if not Aptana will not find any ruby and git executable:)
 
 		`C:\RailsInstaller\Git\cmd`
 		
